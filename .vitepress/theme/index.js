@@ -1,4 +1,4 @@
-﻿import { defineThemeConfig } from 'vitepress/theme'
+import { defineThemeConfig } from 'vitepress/theme'
 
 export default defineThemeConfig({
   // 自定义主题扩展点

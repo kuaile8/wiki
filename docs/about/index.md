@@ -1,4 +1,4 @@
-﻿# 关于
+# 关于
 
 ## Edgeless Wiki
 

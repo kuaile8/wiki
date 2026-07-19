@@ -47,7 +47,7 @@ npm run docs:preview
 ### 协作流程
 
 1. **Fork** 本仓库到你的 GitHub 账户
-2. **克隆** 到你的本地: `git clone https://github.com/YOUR_USERNAME/REPO.git`
+2. **克隆** 到你的本地: `git clone https://github.com/kuaile8/wiki.git`
 3. **创建分支**: `git checkout -b feature/your-feature-name`
 4. **编辑文档** - 在 `docs/` 目录下修改或新增 Markdown 文件
 5. **提交并推送**: `git add . && git commit -m "feat: 添加 XXX" && git push`

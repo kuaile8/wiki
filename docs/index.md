@@ -14,7 +14,8 @@ hero:
       link: /guide/getting-started
     - theme: alt
       text: 在 GitHub 上查看
-      link: https://github.com/USERNAME/REPO
+      link: https://github.com/kuaile8/wiki
+
 
 features:
   - title: 基于 VitePress

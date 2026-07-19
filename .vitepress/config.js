@@ -51,7 +51,7 @@ export default defineConfigWithTheme({
     },
 
     editLink: {
-      pattern: 'https://github.com/USERNAME/REPO/edit/main/docs/:path',
+      pattern: 'https://github.com/kuaile8/wiki/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
@@ -64,7 +64,7 @@ export default defineConfigWithTheme({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/USERNAME/REPO' },
+      { icon: 'github', link: 'https://github.com/kuaile8/wiki' },
     ],
 
     footer: {

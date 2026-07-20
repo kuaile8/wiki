@@ -2,6 +2,7 @@ import { defineConfigWithTheme } from 'vitepress'
 import type { Config } from 'vitepress'
 
 export default defineConfigWithTheme({
+  base: '/wiki/',
   appElement: '#app',
   appElementClasses: ['app-container'],
 

@@ -5,9 +5,6 @@ hero:
   name: Edgeless Wiki
   text: 开源协作文档平台
   tagline: 基于 VitePress 构建，支持 Fork + PR 协作，自动部署到 GitHub Pages
-  image:
-    src: /edgeless-logo.svg
-    alt: Edgeless Wiki
   actions:
     - theme: brand
       text: 快速开始
